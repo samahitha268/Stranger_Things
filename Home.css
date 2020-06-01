@@ -1,0 +1,32 @@
+body{
+	background-color: #000000;
+}
+button{
+    color: black;
+    border: 1px solid black;
+    padding: 10px;
+    width: 19.78%;
+    font-family: 'Chelsea Market', cursive;
+}
+button:hover{
+background-color: black;
+color: white;
+}
+div{
+    border: 2px solid black;
+    background-color: black;
+}
+.home{
+    background-color: black;
+    color: white;
+}
+.home:hover{
+    background-color: white;
+    border-color: white;
+    color: black;
+}
+img:Hover{
+	opacity:50%;
+}
+img{
+	border-radius: 10%;
